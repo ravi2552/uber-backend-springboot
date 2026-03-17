@@ -199,6 +199,3 @@ GET  /drivers/getMyRides
 
 ---
 
-## 👨‍💻 Author
-
-**Ravi Pandey**
